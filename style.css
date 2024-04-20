@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #F2F2F2;
+}
+
+
+h1{
+    margin-top: 10px;
+    font-size: 100px;
+    text-align: center;
+    border: 2px solid #000000;
+    background-color: #022035;
+    
+}
+
+
+ol{
+    border: 1px solid #000000;
+    margin: 50px;
+    padding: 60px;
+    font-size: 25px;
+    background-color: #15616D;
+}
+
+li{
+    line-height: 100px;
+}
+
+h2{
+    margin: 50px;
+    font-size: 50px;
+    color: #000000;
+}
+
+li.even {
+    background-color: #022035;
+}
+    li:hover {
+    background-color: #022035;
+}
